@@ -26,7 +26,7 @@ export default function SignUpForm() {
               Sign Up
             </h1>
             <p className="text-sm text-gray-500 dark:text-gray-400">
-              Enter your email and password to sign up! hihi lại máy ở nhà nè
+              Enter your email and password to sign up! hihi lại máy ở công ty nè
             </p>
           </div>
           <div>
