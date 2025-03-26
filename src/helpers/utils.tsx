@@ -1,0 +1,1 @@
+export const TIME_OUT_REQUEST = 60000 * 5;

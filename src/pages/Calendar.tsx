@@ -39,6 +39,7 @@ const Calendar: React.FC = () => {
         id: "1",
         title: "Event Conf.",
         start: new Date().toISOString(), // Lấy đầy đủ ngày + giờ
+        end: new Date(Date.now() + 1000000).toISOString(), // lấy ngày hôm nay
         extendedProps: { calendar: "Danger" },
       },
       {
